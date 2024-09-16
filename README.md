@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Khushnoor</h1>
 <h3 align="center">A passionate and dedicated web developer with a strong foundation in modern web technologies and programming languages. With expertise in HTML, CSS, and JavaScript, she creates responsive, user-friendly websites. Her backend skills include MySQL, along with proficiency in programming languages like C, C++, and Java.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushnooransari&label=Profile%20views&color=0e75b6&style=flat" alt="khushnooransari" /> </p>
-
+<br>
 - 🌱 I’m currently learning **Tensorflow,Mongodb**
 
 - 📫 How to reach me **khushnoor1.ggitbca.2020@gmail.com**
