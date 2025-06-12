@@ -4,7 +4,7 @@
 
 <br>
 
-- 📫 How to reach me **khushnoor7525@gmail.com**
+- 📫 How to reach [me](mailto:khushnoor7525.2020@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
