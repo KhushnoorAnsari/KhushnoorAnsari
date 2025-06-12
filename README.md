@@ -3,13 +3,12 @@
 <h3 align="center">A passionate and dedicated web developer with a strong foundation in modern web technologies and programming languages. With expertise in HTML, CSS, and JavaScript, she creates responsive, user-friendly websites. Her backend skills include MySQL, along with proficiency in programming languages like C, C++, and Java.</h3>
 
 <br>
-- 🌱 I’m currently learning **Tensorflow,Mongodb**
 
-- 📫 How to reach me **khushnoor1.ggitbca.2020@gmail.com**
+- 📫 How to reach me **khushnoor7525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khushnoor." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushnoor." height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khushnoor1-ansari1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushnoor." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
